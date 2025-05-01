@@ -4,7 +4,7 @@
 🌱 Currently learning React and Figma <br/>
 💻 Learning one line of code (and one bug) at a time  
 ☕ Fun fact: I run on anime and coffee — mostly coffee    
-💡 Motto: Growing and Learning 
+💡 Motto: Progress over Perfection 
 
 
 
