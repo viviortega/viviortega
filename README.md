@@ -1,7 +1,7 @@
 ## Hi, I'm Viviana 🌸 🌸 
 
-🔭 I’m on a journey to become a Software Engineer and Frontend Developer <br/>
-🌱 Currently learning React and Figma <br/>
+🔭 I’m on a journey to become a Data Analyst <br/>
+🌱 Currently learning Tableau <br/>
 💻 Learning one line of code (and one bug) at a time  
 ☕ Fun fact: I run on anime and coffee — mostly coffee    
 💡 Motto: Progress over Perfection 
